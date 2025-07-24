@@ -1,7 +1,7 @@
 # Simple-C-Menu-Calculator
 
 This project was built using [Code::Blocks](https://www.codeblocks.org/).
-The simple C calculating program allows the user to choose from 5 options. Each option providing the specific calculating method chosen.
+Thia simple C calculating program allows the user to choose from 5 options. Each option providing the specific calculating method chosen.
 
 HOW TO USE THIS PROJECT
 
@@ -15,5 +15,5 @@ IN CODE::BLOCKS
 3. Select the .cbp file.
 4. Build and run the program.
 
-
+Updates to the project might come along in the future. Which will include more features.
 
